@@ -69,6 +69,7 @@
           // code
           removeStyles: false,
           code: false,
+          height: 140
         });
 
         $('#enviar').click(function (e) { 
